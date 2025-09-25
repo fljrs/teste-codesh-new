@@ -1,1 +1,8 @@
-touch .gitignore
+# Arquivos e pastas do sistema operacional:
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários e log:
+*.log
+*.tmp
+*.bak
